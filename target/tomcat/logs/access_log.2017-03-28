@@ -1,0 +1,3 @@
+127.0.0.1 - - [28/Mar/2017:21:46:35 -0300] "GET /biografia HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [28/Mar/2017:21:46:35 -0300] "GET /biografia/ HTTP/1.1" 200 214 http-bio-8080-exec-2 12
+127.0.0.1 - - [28/Mar/2017:21:46:35 -0300] "GET /biografia/bacana-01.jpg HTTP/1.1" 404 997 http-bio-8080-exec-3 4
