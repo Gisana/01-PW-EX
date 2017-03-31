@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [29/Mar/2017:19:40:37 -0300] "GET /biografia HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [29/Mar/2017:19:40:37 -0300] "GET /biografia/ HTTP/1.1" 200 214 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [29/Mar/2017:19:40:37 -0300] "GET /biografia/bacana-01.jpg HTTP/1.1" 404 997 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [29/Mar/2017:19:40:38 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
