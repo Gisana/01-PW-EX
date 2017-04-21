@@ -1,4 +1,4 @@
-# -1-PW-EX
+# 01-PW-EX
 Esse repositório tem como conteúdo um projeto web com o mavem inbutido. É uma minibiografia pessoal.
 Esse exercício 01 é o resultado da aplicação dos conceitos iniciais do curso de Programação Web fornecido pela UFG, curso de Sistemas de Informação, professor Walison Moreira.
 
